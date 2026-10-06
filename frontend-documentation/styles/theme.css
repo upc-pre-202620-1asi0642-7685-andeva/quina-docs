@@ -1,0 +1,34 @@
+/**
+ * Quina Design System — Theme & Colors (Tailwind CSS v4)
+ */
+
+@theme {
+  --font-sans:
+    'Albert Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    sans-serif;
+
+  --color-primary: #2bdd66;
+  --color-primary-dark: #0a2e17;
+  --color-primary-soft: #e3f9ea;
+
+  --color-accent: #ffb020;
+  --color-accent-dark: #b86e00;
+  --color-accent-soft: #fff3d6;
+
+  --color-surface-black: #262626;
+  --color-surface-white: #f8f8fa;
+
+  --color-card-black: #272727;
+  --color-card-white: #ffffff;
+
+  --color-text-black: #262626;
+  --color-text-white: #ffffff;
+  --color-text-subtitles: #c6c6c6;
+
+  --color-border-card-dark: #ebebeb;
+  --color-border-card-light: #c6c6c6;
+
+  --color-success: #3ac530;
+  --color-error: #fb2c36;
+  --color-warning: #f0b100;
+}
